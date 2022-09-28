@@ -8,7 +8,6 @@
     <artifactId>Maventest</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
     <distributionManagement>
         <repository>
             <id>releases</id>
